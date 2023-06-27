@@ -39,7 +39,7 @@
                     </form>
 
                     <h1>comando basico de git 2 parte</h1>
-                    <h2>acabo de hacer otro cambios de blade para git </h2>
+                    
                 
                 </div>
             </div>
