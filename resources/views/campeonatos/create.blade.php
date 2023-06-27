@@ -39,6 +39,7 @@
                     </form>
 
                     <h1>comando basico de git</h1>
+                    <h2>acabo de hacer otro cambio</h2>
                 </div>
             </div>
         </div>
