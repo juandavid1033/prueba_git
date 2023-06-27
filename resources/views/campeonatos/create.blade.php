@@ -39,7 +39,7 @@
                     </form>
 
                     <h1>comando basico de git 2 parte</h1>
-                    
+                    <h2>comando h2</h2>
                 
                 </div>
             </div>
