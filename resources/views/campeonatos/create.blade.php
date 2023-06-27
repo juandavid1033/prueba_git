@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">{{ __('Registro de Campeonato') }}</div>
+                <div class="card-header">{{ __('Registro de Campeonatos') }}</div>
 
                 <div class="card-body">
                     <form action="{{ route('campeonatos.store') }}" method="POST">
@@ -37,6 +37,8 @@
                         </div>
                         <button type="submit" class="btn btn-primary">{{ __('Registrar') }}</button>
                     </form>
+
+                    <h1>comando basico de git</h1>
                 </div>
             </div>
         </div>
